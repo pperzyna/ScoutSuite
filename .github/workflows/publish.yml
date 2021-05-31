@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - feature/855-publish-container-test
   release:
     types:
       - released
